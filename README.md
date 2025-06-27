@@ -5,7 +5,8 @@ A hosts file editor GUI application with Python. This application will provide a
 
 ![image](https://github.com/user-attachments/assets/9da2b8f9-2603-451e-a82f-e9c3696b662f)
 
-##V2:
+## V2:
+
 ![image](https://github.com/user-attachments/assets/1a6dc6d1-d327-4f92-b01f-5e5b13df6ff8)
 
 
