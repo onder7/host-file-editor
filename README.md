@@ -1,5 +1,6 @@
 Python ile  bir hosts dosya düzenleyici GUI uygulaması. Bu uygulama hosts dosyasını düzenlemek, eklemek ve silmek için kullanıcı dostu bir arayüz sağlayacak.Modern bir hosts dosya düzenleyici GUI uygulaması oluşturdum. İşte uygulamanın temel özellikleri:
-EN:
+
+## EN:
 A hosts file editor GUI application with Python. This application will provide a user-friendly interface to edit, add and delete hosts file. I have created a modern hosts file editor GUI application. Here are the main features of the application
 
 ![image](https://github.com/user-attachments/assets/9da2b8f9-2603-451e-a82f-e9c3696b662f)
@@ -11,7 +12,7 @@ A hosts file editor GUI application with Python. This application will provide a
 - Renkli durum göstergeleri (✅ Aktif, ❌ Devre Dışı, 💬 Yorum)
 - Kullanıcı dostu buton tasarımları
 
-##EN:
+## EN:
 - **Modern Design:**
 - Modern look with dark mode
 - Colored status indicators (✅ Active, ❌ Disabled, 💬 Comment)
@@ -24,7 +25,7 @@ A hosts file editor GUI application with Python. This application will provide a
 - **Silme:** İstenmeyen girişleri silme
 - **Kaydetme:** Değişiklikleri hosts dosyasına kaydetme
 
-##EN:
+## EN:
 **Basic Functions:**
 - **Display:** Display existing hosts entries in a table
 - **Add:** Add new IP-Host pairs
@@ -38,7 +39,7 @@ A hosts file editor GUI application with Python. This application will provide a
 - **Akıllı Parsing:** Yorumları, aktif/pasif girişleri otomatik algılama
 - **IP Doğrulama:** Geçersiz IP adreslerini kontrol etme
 
-##EN:
+## EN:
  **Advanced Features:**
 - Automatic Backup:** Automatic backup creation before saving
 - Manual Backup:** Backup hosts file to the desired location
@@ -53,7 +54,7 @@ A hosts file editor GUI application with Python. This application will provide a
 4. **Kaydetme:** Değişiklikleri hosts dosyasına kaydedin
 
    
-##EN:
+## EN:
 ## 🚀 Usage
 
 1. **Run:** Save the code as a `.py` file and run it
@@ -74,5 +75,5 @@ A hosts file editor GUI application with Python. This application will provide a
 
 Uygulama, hosts dosyasını güvenli bir şekilde düzenler ve her kaydetmeden önce otomatik yedek oluşturur. Modern, kullanıcı dostu arayüzü ile hosts dosyası yönetimi artık çok kolay!
 
-##EN:
+## EN:
 The application securely organizes the hosts file and creates an automatic backup before each save. With its modern, user-friendly interface, hosts file management is now a breeze!
