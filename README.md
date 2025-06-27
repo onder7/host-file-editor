@@ -10,7 +10,8 @@ A hosts file editor GUI application with Python. This application will provide a
 - Koyu tema (dark mode) ile modern görünüm
 - Renkli durum göstergeleri (✅ Aktif, ❌ Devre Dışı, 💬 Yorum)
 - Kullanıcı dostu buton tasarımları
-EN:
+
+##EN:
 - **Modern Design:**
 - Modern look with dark mode
 - Colored status indicators (✅ Active, ❌ Disabled, 💬 Comment)
@@ -22,7 +23,8 @@ EN:
 - **Düzenleme:** Mevcut girişleri düzenleme (çift tıklama veya düzenle butonu)
 - **Silme:** İstenmeyen girişleri silme
 - **Kaydetme:** Değişiklikleri hosts dosyasına kaydetme
-EN:
+
+##EN:
 **Basic Functions:**
 - **Display:** Display existing hosts entries in a table
 - **Add:** Add new IP-Host pairs
@@ -35,7 +37,8 @@ EN:
 - **Manuel Yedekleme:** İstediğiniz konuma hosts dosyasını yedekleme
 - **Akıllı Parsing:** Yorumları, aktif/pasif girişleri otomatik algılama
 - **IP Doğrulama:** Geçersiz IP adreslerini kontrol etme
-EN:
+
+##EN:
  **Advanced Features:**
 - Automatic Backup:** Automatic backup creation before saving
 - Manual Backup:** Backup hosts file to the desired location
@@ -48,8 +51,9 @@ EN:
 2. **Yetki:** Windows'ta yönetici yetkileri gerekebilir
 3. **Düzenleme:** Girişleri ekle/düzenle/sil
 4. **Kaydetme:** Değişiklikleri hosts dosyasına kaydedin
+
    
-EN:
+##EN:
 ## 🚀 Usage
 
 1. **Run:** Save the code as a `.py` file and run it
@@ -61,12 +65,14 @@ EN:
 
 - **Windows:** `C:\Windows\System32\drivers\etc\hosts`
 - **Linux/macOS:** `/etc/hosts`
-EN:
+
+##EN:
 ##📋 System Compatibility
 
 - **Windows:** `C:\Windows\System32\drivers\etc\hosts`
 - **Linux/macOS:** `/etc/hosts`
 
 Uygulama, hosts dosyasını güvenli bir şekilde düzenler ve her kaydetmeden önce otomatik yedek oluşturur. Modern, kullanıcı dostu arayüzü ile hosts dosyası yönetimi artık çok kolay!
-EN:
+
+##EN:
 The application securely organizes the hosts file and creates an automatic backup before each save. With its modern, user-friendly interface, hosts file management is now a breeze!
